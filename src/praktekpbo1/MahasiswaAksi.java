@@ -11,8 +11,11 @@ package praktekpbo1;
  */
 public class MahasiswaAksi {
     public static void main(String[] args) {
-        Mahasiswa Fajar = new Mahasiswa();
+        Mahasiswa Sam = new Mahasiswa();
        
+        Sam.nama="Sam Sung";
+        Sam.NPM="16630983";
+        Sam.IPK=3.2;
     }
     
 }

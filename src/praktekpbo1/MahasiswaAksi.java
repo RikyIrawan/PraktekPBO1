@@ -10,5 +10,9 @@ package praktekpbo1;
  * @author WINDOWS 10
  */
 public class MahasiswaAksi {
+    public static void main(String[] args) {
+        Mahasiswa Fajar = new Mahasiswa();
+       
+    }
     
 }

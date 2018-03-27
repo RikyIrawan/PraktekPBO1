@@ -16,6 +16,8 @@ public class MahasiswaAksi {
         Sam.nama="Sam Sung";
         Sam.NPM="16630983";
         Sam.IPK=3.2;
+        
+        Sam.cetakinfo();
     }
     
 }
